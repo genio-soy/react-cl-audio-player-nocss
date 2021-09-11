@@ -1,5 +1,5 @@
 {
-  "name": "react-cl-audio-player-nocss",
+  "name": "@geniosoy/react-cl-audio-player-nocss",
   "version": "2.3.0",
   "description": "react-cl-audio-player React component",
   "main": "lib/index.js",
@@ -30,7 +30,10 @@
   "author": "Cezar Luiz <cezarluiz.c@gmail.com>",
   "homepage": "http://cezarlz.github.io/react-cl-audio-player",
   "license": "MIT",
-  "repository": "git@github.com:cezarlz/react-cl-audio-player.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/genio-soy/react-cl-audio-player-nocss.git"
+  },
   "keywords": [
     "react-component",
     "audio",
@@ -39,5 +42,8 @@
     "lib",
     "mp3",
     "songs"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/cezarlz/react-cl-audio-player/issues"
+  }
 }
