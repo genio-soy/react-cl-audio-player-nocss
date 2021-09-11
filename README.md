@@ -1,4 +1,6 @@
-# react-cl-audio-player
+# react-cl-audio-player-nocss
+
+This is a modify version of react-cl-audio-player package (https://github.com/cezarsmpio/react-cl-audio-player) to suport NEXTJS Global CSS import
 
 A simple audio player with ReactJS and CSS3.
 
