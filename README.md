@@ -2,6 +2,8 @@
 
 A simple audio player with ReactJS and CSS3.
 
+This is a modify version of react-cl-audio-player package (https://github.com/cezarsmpio/react-cl-audio-player) to suport NEXTJS Global CSS import
+
 Inspiration: [Thanks Rovane Durso](https://dribbble.com/shots/998479-Music)
 
 ## TODO
